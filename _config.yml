@@ -9,7 +9,7 @@
 title: 土拨鼠 # ex. I m Chuan
 name: 愚蠢的土拨鼠 # ex. DONGChuan
 email: 1486217028@qq.com
-location: 秘密 # ex. Nice, France
+location: 重庆 # ex. Nice, France
 company: 找工作中
 company_url: my_company_website
 github_url: https://github.com/GroundhogOfTang # ex. https://github.com/GroundhogOfTang
@@ -58,7 +58,7 @@ paginate_path: 'page:num'
 navs:
   -
     href: /
-    label: Home
+    label: 主页
 
   -
     href: /open-source
